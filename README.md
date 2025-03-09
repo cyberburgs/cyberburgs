@@ -37,14 +37,16 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-  I'm a passionate cybersecurity professional and developer with a strong interest in securing digital landscapes.  
-  I specialize in **Active Directory Security, Cloud Security, and Web Application Security**.  
-  Currently, I'm working on **developing advanced cybersecurity solutions** at CyberBurgs.  
+  I am a cybersecurity professional and developer with a strong interest in securing digital landscapes.  
+  I specialize in Active Directory Security, Cloud Security, and Web Application Security.  
+  Currently, I am working on developing advanced cybersecurity solutions at CyberBurgs.  
   <br><br>
-  - 🔭 **Current Work:** Building and enhancing **Zero Trust Architecture** for enterprise security. <br>
-  - 📚 **Learning:** Deepening my knowledge in **Parallel & Distributed Computing** and **Advanced Threat Modeling**. <br> 
-  - ⚡ **Interests:** Exploring **AI-driven security solutions**, automating security workflows, and contributing to open-source projects.  
+  - I am building and enhancing Zero Trust Architecture for enterprise security. <br>
+  - I am also learning more about Parallel & Distributed Computing and Advanced Threat Modeling. <br> 
+  - In my free time, I explore AI-driven security solutions, automate security workflows,  
+  and contribute to open-source projects.
 </p>
+
 
 ###
 
