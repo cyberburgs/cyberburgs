@@ -41,8 +41,8 @@
   I specialize in **Active Directory Security, Cloud Security, and Web Application Security**.  
   Currently, I'm working on **developing advanced cybersecurity solutions** at CyberBurgs.  
   <br><br>
-  - 🔭 **Current Work:** Building and enhancing **Zero Trust Architecture** for enterprise security.  
-  - 📚 **Learning:** Deepening my knowledge in **Parallel & Distributed Computing** and **Advanced Threat Modeling**.  
+  - 🔭 **Current Work:** Building and enhancing **Zero Trust Architecture** for enterprise security. <br>
+  - 📚 **Learning:** Deepening my knowledge in **Parallel & Distributed Computing** and **Advanced Threat Modeling**. <br> 
   - ⚡ **Interests:** Exploring **AI-driven security solutions**, automating security workflows, and contributing to open-source projects.  
 </p>
 
