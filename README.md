@@ -34,8 +34,6 @@
 
 ###
 
-<h3 align="left">👩‍💻 About Me</h3>
-
 <p align="left">
   I am a cybersecurity professional and developer with a strong interest in securing digital landscapes.  
   I specialize in Active Directory Security, Cloud Security, and Web Application Security.  
