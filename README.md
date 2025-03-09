@@ -1,5 +1,5 @@
 <div align="right">
-  <img height="150" src="Logo.png" style="border-radius: 50%;" />
+  <img height="150" margin-top="100" margin-bottom="100" src="Logo.png" style="border-radius: 50%;" />
 </div>
 
 ###
