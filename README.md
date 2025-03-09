@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
   <img height="250" src="Logo.png" style="border-radius: 50%;" />
 </div>
 
